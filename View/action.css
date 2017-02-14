@@ -1,0 +1,115 @@
+@import "font-awesome-4.7.0/css/font-awesome.css";
+body{
+  padding: 0;
+  margin:0;
+}
+nav{
+  background-color: #28719a;
+  height: 60px;
+  margin-bottom: 50px;
+  width: 100%;
+
+}
+.profile{
+  margin: 0;
+  float: left;
+
+}
+.profile ul {
+  margin: 0;
+  padding-bottom: 10px;
+}
+.profile li{
+  margin: 0;
+}
+ul{
+  float: left;
+  padding-top:10px;
+}
+li{
+  display: inline-block;
+  font-size: 25px;
+  padding: 0px 10px 5px 10px;
+  transition: font-size .5s;
+}
+li{
+  font-size: 20px;
+
+}
+/*section{
+pad
+
+}*/
+.logopic{
+  float:left;
+  height: 100px;
+  transition: transform 2s;
+  border-radius: 50%;
+
+}
+.logopic:hover{
+  transform: rotateY(360deg);
+}
+
+div.legal{
+  background-color: #00adcc;
+  height:100px;
+  margin:0px;
+}
+div.legal{
+  font-size: 40px;
+
+}
+
+div.legal h3{
+  margin: 0px;
+  padding-top: 40px;
+  padding-right: : 60px;
+  padding-left: 60px;
+  border-radius: 60px;
+  font-size: xx-large;
+
+}
+/*body*/
+body{
+  background-color: #e6e4e2;
+  /*background-size: 2300px;*/
+  /*background-position: center;
+  background-size: cover;*/
+  font-family: 'Exo', sans-serif;
+}
+footer{
+  background-color: #00c198;
+  position: absolute;
+  height:70px;
+  width: 100%;
+  font-size: 100%;
+  top: -1000px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  bottom: 0;
+  position: absolute;
+
+
+}
+
+
+ul .menu{
+  font-size: 10px;
+}
+.notif{
+background: #0accff;
+position: relative;
+top: -70px;
+left: -5px;
+background: #00f0ff;
+color: #000;
+margin: 0 auto;
+width: 20px;
+border-radius: 50%;
+text-align: center;
+padding: 3px 0px;
+padding-bottom: 5px;
+border: 2px solid #5685DA;
+}
